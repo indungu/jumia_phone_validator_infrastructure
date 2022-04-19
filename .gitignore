@@ -1,0 +1,5 @@
+# ignore private key
+**/ssh-keys/jumia-phone-validator
+
+# ignore editor files
+**/.vscode
