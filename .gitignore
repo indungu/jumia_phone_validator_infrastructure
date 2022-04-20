@@ -3,3 +3,7 @@
 
 # ignore editor files
 **/.vscode
+
+# terraform
+**/.terraform
+**/terraform.tfvars
